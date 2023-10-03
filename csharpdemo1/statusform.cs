@@ -26,5 +26,15 @@ namespace csharpdemo1
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void save_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
