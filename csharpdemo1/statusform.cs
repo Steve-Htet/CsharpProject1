@@ -12,6 +12,7 @@ namespace csharpdemo1
 {
     public partial class statusform : Form
     {
+        String str = "server = GWT; database = db_MyNote; UID=sa;password=glob@l123";
         public statusform()
         {
             InitializeComponent();
@@ -34,6 +35,7 @@ namespace csharpdemo1
 
         private void save_Click(object sender, EventArgs e)
         {
+
             this.Close();
         }
     }

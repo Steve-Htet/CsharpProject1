@@ -30,7 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(form1));
             btn_New = new Button();
-            listBox1 = new ListBox();
+            dataGridView1 = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // btn_New
@@ -45,17 +46,17 @@
             btn_New.UseVisualStyleBackColor = false;
             btn_New.Click += btn_New_Click;
             // 
-            // listBox1
+            // dataGridView1
             // 
-            listBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            listBox1.BackColor = Color.GhostWhite;
-            listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(12, 43);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(466, 349);
-            listBox1.TabIndex = 1;
-            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(12, 41);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.RowTemplate.Height = 25;
+            dataGridView1.Size = new Size(464, 341);
+            dataGridView1.TabIndex = 1;
             // 
             // form1
             // 
@@ -64,19 +65,20 @@
             AutoSize = true;
             BackColor = SystemColors.Info;
             ClientSize = new Size(492, 423);
-            Controls.Add(listBox1);
+            Controls.Add(dataGridView1);
             Controls.Add(btn_New);
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "form1";
             Text = "Diary";
             Load += form1_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
         private Button btn_New;
-        private ListBox listBox1;
+        private DataGridView dataGridView1;
     }
 }
