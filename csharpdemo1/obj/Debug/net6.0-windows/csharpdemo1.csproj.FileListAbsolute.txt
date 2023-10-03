@@ -1,0 +1,17 @@
+D:\CsharpProject\csharpdemo1\bin\Debug\net6.0-windows\csharpdemo1.exe
+D:\CsharpProject\csharpdemo1\bin\Debug\net6.0-windows\csharpdemo1.deps.json
+D:\CsharpProject\csharpdemo1\bin\Debug\net6.0-windows\csharpdemo1.runtimeconfig.json
+D:\CsharpProject\csharpdemo1\bin\Debug\net6.0-windows\csharpdemo1.dll
+D:\CsharpProject\csharpdemo1\bin\Debug\net6.0-windows\csharpdemo1.pdb
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.form1.resources
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.csproj.GenerateResource.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.AssemblyInfoInputs.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.AssemblyInfo.cs
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.csproj.CoreCompileInputs.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.dll
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\refint\csharpdemo1.dll
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.pdb
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.genruntimeconfig.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\ref\csharpdemo1.dll
+D:\CsharpProject\csharpdemo1\obj\Debug\net6.0-windows\csharpdemo1.statusform.resources

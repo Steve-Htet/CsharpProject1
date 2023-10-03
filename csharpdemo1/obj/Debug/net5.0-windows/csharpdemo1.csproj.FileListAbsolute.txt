@@ -1,0 +1,6 @@
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.form1.resources
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.csproj.GenerateResource.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.AssemblyInfoInputs.cache
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.AssemblyInfo.cs
+D:\CsharpProject\csharpdemo1\obj\Debug\net5.0-windows\csharpdemo1.csproj.CoreCompileInputs.cache
